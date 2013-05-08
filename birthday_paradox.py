@@ -7,7 +7,7 @@
 import random, collections
 
 def rand_date():
-  '''Generate a random date with mm/dd format.'''
+	'''Generate a random date with mm/dd format.'''
 	m = random.randint(1, 12)
 	d = random.randint(1, 31)
 	o = "%02d/%02d" % (m, d)
