@@ -11,7 +11,8 @@ def rand_date():
 	m = random.randint(1, 12)
 	d = random.randint(1, 31)
 	o = "%02d/%02d" % (m, d)
-	if (o != "04/31" and o != "06/31" and o != "09/31" and o != "11/31"):
+	if (o != "02/30" and o != "02/31" and o != "04/31" and o != "06/31" 
+	   and o != "09/31" and o != "11/31"):
 		return o
 	else:
 		return rand_date()
