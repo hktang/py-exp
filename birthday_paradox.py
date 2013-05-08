@@ -48,4 +48,4 @@ def force_calc_probability(x, y):
 # Uncomment the last line to run. Warnning! RAM hog below. 
 # Run at your own risk. Or consider reducing y.
 
-force_calc_probability(23,50000)
+#force_calc_probability(23,50000)
