@@ -1,8 +1,8 @@
 # Finds all English words, the value of whose individual characters, if 
-# mapped to a numbered list (1, 2, 3 ... 26), add up ot exactly 100.
+# mapped to a numbered list (1, 2, 3 ... 26), add up to exactly 100.
 # Word list from SIL International Linguistics Department
 # at http://www-01.sil.org/linguistics/wordlists/english/
-# Inspired by the (in)famous HR gag of 'ATTITUTE' = 100%.
+# Inspired by the (in)famous HR gag of 'ATTITUDE' = 100%.
 # Github @hktang
 
 import time

@@ -1,5 +1,5 @@
-# Provides brute-force calculation for the probabilty of same-birthday 
-# occurances in a group of arbitrary number of people. 
+# Provides brute-force calculation for the probability of same-birthday 
+# occurrences in a group of arbitrary number of people. 
 # (Birthday paradox: http://en.wikipedia.org/wiki/Birthday_problem)
 # Inspired by http://www.weibo.com/2313291734/zvARF0tdX
 # Github @hktang
