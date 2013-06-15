@@ -34,3 +34,5 @@ def find_perfect_words(word_list):
 	      time.time() - start_time, "seconds. \n"
 
 find_perfect_words("vendor/words-en.txt")
+
+# Run result available at runs-output/attitude-100.txt
